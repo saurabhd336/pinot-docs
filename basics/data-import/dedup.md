@@ -64,6 +64,7 @@ To enable dedup for a REALTIME table, add the following to the table config.
   },
 }
 ```
+{% endcode %}
 
 Supported values for `hashFunction` are `NONE`, `MD5` and `MURMUR3`, with the default being `NONE`.
 
